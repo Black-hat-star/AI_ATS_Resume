@@ -32,6 +32,7 @@ cd AI_ATS_Resume
 pip install -r requirements.txt
 
 ``` 3. Set Up Environment Variables
+
 ```
 Create a .env file in the root directory and add your Google API key:
 GOOGLE_API_KEY="your_gemini_api_key"

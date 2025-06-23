@@ -43,3 +43,20 @@ GOOGLE_API_KEY="your_gemini_api_key"
 streamlit run app.py
 
 
+```
+🧪 Example Output
+```
+{
+  "JD Match": "82%",
+  "MissingKeywords": ["ETL", "Docker", "Kubernetes"],
+  "Profile Summary": "Your profile shows strong data analysis and Python skills. Adding experience with containerization tools would improve alignment."
+}
+
+```
+📝 Notes
+```
+Model used: models/gemini-1.5-flash
+Resume must be in .pdf format
+Use responsibly — API usage is subject to limits and quotas
+
+

@@ -4,7 +4,7 @@ Smart ATS is a Streamlit-based web application that acts like a highly skilled A
 
 This app leverages **Gemini 1.5 Flash** via Google’s Generative AI API to analyze the content of a resume PDF, compare it to a job description, and provide insights like:
 
-- ✅ Percentage JD Match  
+- ✅ Percentage JD(JOB DESCRIPTION) Match  
 - 🔍 Missing Keywords  
 - 📝 Profile Summary Feedback
 

@@ -41,8 +41,6 @@ GOOGLE_API_KEY="your_gemini_api_key"
 📦 Running the App
 ```
 streamlit run app.py
-
-
 ```
 🧪 Example Output
 ```
